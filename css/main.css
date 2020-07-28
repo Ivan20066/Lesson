@@ -41,15 +41,13 @@ a {
     position: absolute;
     top: 21px;
     left: 0;
-    
-
 
     }
  .menu {
-    position: absolute;   
-     top: 20px;
-     left: 50%;     
-     transform: translatex(-50%);     
+    position: absolute;
+    top: 44px;
+    left: 50%;
+    transform: translatex(-50%);    
  }
  .menu__list {
      margin: 0;
@@ -95,16 +93,22 @@ a {
      text-align: center;
  }
  .preview__proposal {    
-    font-weight: 800;
-    font-size: 72px;
+    font-weight: 700;
+    font-size: 111px;
     line-height: 98px;
+    margin-top: 216px;
  }
  .preview__text {     
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
     font-size: 18px;
-    line-height: 1.1;
+    line-height: 20px;
+    margin-top: 50px;
  }
  .preview__button {
-    margin-top: 50px;
+    
+    margin-top: 66px;
     
  }
  .btn {     
@@ -119,9 +123,9 @@ text-transform: uppercase;
     color:#FF5500
 }
 .button--color {
-    background: #FF5500;   
-    width: 195px;
-    height: 55px;       
+    background: #FF5500;
+    width: 247px;
+    height: 76px;
     border: solid #FF5500;
     border-radius: 35px;
     color: #ffffff;
@@ -129,8 +133,7 @@ text-transform: uppercase;
     font-size: 14px;
     line-height: 19px;
     text-decoration: none;
-text-transform: uppercase;
-   
+    text-transform: uppercase;
 }
 .button {    
     width: 195px;
@@ -147,8 +150,12 @@ line-height: 19px;
 }
 .servis__list {
    margin-top: 50px;
-   padding: 0;
- 
+   padding: 0; 
+   
+}
+.servis__icon {
+    margin-right: 250px;
+    
 }
 .servis__item-list {
     display:inline-block;   
@@ -175,6 +182,7 @@ h1, h2, h3, h4 {
 .servis__title {  
     font-size: 32px;
     line-height: 44px;
+    margin-right: 172px;
     
 }
 
@@ -192,6 +200,7 @@ h1, h2, h3, h4 {
 .servis__conditions-block :last-child {
     margin-right: 0;
 }
+
 .servis__card-text{
   
     
