@@ -9,6 +9,8 @@ html {
 }
 body {     
     color:#fff;
+    background-image: url(../img/hero.jpg);
+    
     background-color: #202123;
     font-family: Open Sans;
     font-style: normal;
@@ -343,6 +345,7 @@ margin-top: 100px;
     height: 150px;
     position: relative;
     margin-top: 100px;
+   
 }
 .socials__item {
     display: inline-block;
