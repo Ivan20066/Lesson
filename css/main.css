@@ -7,11 +7,12 @@ html {
     height: 100%;
     overflow: hidden;
 }
+.main-page-wrapper {
+    background-image:url(../img/hero.jpg);
+}
 body {     
-    color:#fff;
-    background-image: url(../img/hero.jpg);
-    
-    background-color: #202123;
+    color:#fff; 
+   
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
