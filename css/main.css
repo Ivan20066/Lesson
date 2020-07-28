@@ -203,14 +203,14 @@ h1, h2, h3, h4 {
     
 }
 
-.section__title {
-    text-align: center;
+.section__title {    
 font-family: Open Sans;
 font-style: normal;
 font-weight: 800;
 font-size: 36px;
 line-height: 49px;
 margin-top: 100px;
+margin-left: 244px;
 
 
 }
