@@ -215,8 +215,6 @@ h1, h2, h3, h4 {
 }
 
 .section__title {    
-    font-family: Open Sans;
-    font-style: normal;
     font-weight: 700;
     font-size: 48px;
     line-height: 43px;
