@@ -350,6 +350,13 @@ line-height: 20px;
     background: #FFFFFF;
     border-radius: 5px;
 }
+.about__title {
+    font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
+}
 
 * {
 }    
