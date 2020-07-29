@@ -163,7 +163,7 @@ line-height: 19px;
     margin-right: 50px;    
     background: #FFFFFF;
     border-radius: 5px;
-     width: 377px;
+    width: 350px;
     min-height: 630px;        
      color: #000;
      vertical-align:top;
@@ -331,24 +331,27 @@ line-height: 20px;
 .about:before {
     content: "";
     display:inline-block;
-    width: 651px;
-    height: 600px;
+    width: 645px;
+    height: 500px;
     background: url(../img/cameraman.jpg) center center/cover no-repeat; 
 }
 .about__list {    
-    width: 770px;
-    min-height: 483px;
+    width: 692px;
+    min-height: 494px;
     padding: 90px 164px 81px 125px;
     color: #000;
     box-sizing: border-box;
     font-size: 20px;
-    line-height: 27px;
-    margin-top: 39px;
-    margin-left: -100px;
+    line-height: 24px;
+    margin-top: 70px;
+    margin-left: -185px;
     display: inline-block;
     vertical-align: top;
     background: #FFFFFF;
     border-radius: 5px;
+}
+
+* {
 }    
     
 .about__button {
