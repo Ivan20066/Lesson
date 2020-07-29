@@ -26,7 +26,7 @@ body {
 }
 .container {
     margin: 0 auto;
-    width: 1503px;
+    width: 1254px;
     
 }
 a {
@@ -163,7 +163,7 @@ line-height: 19px;
     margin-right: 50px;    
     background: #FFFFFF;
     border-radius: 5px;
-     width: 471px;
+     width: 377px;
     min-height: 630px;        
      color: #000;
      vertical-align:top;
@@ -235,8 +235,8 @@ h1, h2, h3, h4 {
 }
 .news__item { 
     display: inline-block;
-    height: 521px;
-    width: 745px;
+    height: 490px;
+    width: 535px;
     margin-right: 30px;
    position: relative;
    border-radius: 5px;
@@ -357,8 +357,8 @@ line-height: 20px;
     font-family: Open Sans;
     font-style: normal;
     font-weight: 700;
-    font-size: 55px;
-    line-height: 61px;
+    font-size: 34px;
+    line-height: 24px;
     margin-bottom: 10px;
 }    
     
