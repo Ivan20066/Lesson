@@ -39,8 +39,8 @@ a {
 .logo {
     display: block;
     position: absolute;
-    top: 34px;
-    left: 0;
+    top: 32px;
+    left: 31px;
 
     }
  .menu {
@@ -73,8 +73,8 @@ a {
  .contacts {
     display: block;
     position: absolute;
-     top: 28px;
-     right: 56px;
+    top: 28px;
+    right: 83px;
      text-align: right;     
  }
  .contacts__desc {
@@ -83,7 +83,7 @@ a {
  .contacts__tel {
     text-decoration: none;
     font-size: 26px;
-    line-height: 35px;
+    line-height: 32px;
  }
  .contacts__graph {
     font-size: 13px;
