@@ -91,7 +91,7 @@ a {
  }
  .preview {
      text-align: center;
-     margin-top: 122px;
+     margin-top: 117px;
  }
  .preview__proposal {    
     font-family: Open Sans;
@@ -149,10 +149,10 @@ font-size: 14px;
 line-height: 19px;
 }
 .servis__container {
-    margin-left: 140px;
+    margin-left: 77px;
 }
 .servis__list {
-   margin-top: 321px;
+   margin-top: 187px;
    padding: 0; 
    
 }
@@ -162,11 +162,11 @@ line-height: 19px;
 }
 .servis__item-list {
     display:inline-block;   
-    margin-right: 50px;    
+    margin-right: 30px;    
     background: #FFFFFF;
     border-radius: 5px;
-    width: 345px;
-    min-height: 510px;       
+    width: 362px;
+    min-height: 476px;       
      color: #000;
      vertical-align:top;
      padding: 20px 25px;
