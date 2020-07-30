@@ -91,14 +91,14 @@ a {
  }
  .preview {
      text-align: center;
-     margin-top: 117px;
+     margin-top: 220px;
  }
  .preview__proposal {    
     font-family: Open Sans;
     font-style: normal;
     font-weight: 800;
-    font-size: 72px;
-    line-height: 98px
+    font-size: 94px;
+    line-height: 97px;   
     text-transform: uppercase;
  }
  .preview__text {      
@@ -107,7 +107,7 @@ a {
     font-weight: normal;
     font-size: 24px;
     line-height: 20px;
-    margin-top: 40px;
+    margin-top: 35px;
  }
  .preview__button {
     
