@@ -39,7 +39,7 @@ a {
 .logo {
     display: block;
     position: absolute;
-    top: 39px;
+    top: 34px;
     left: 0;
 
     }
@@ -74,7 +74,7 @@ a {
     display: block;
     position: absolute;
      top: 28px;
-     right: 0;
+     right: 56px;
      text-align: right;     
  }
  .contacts__desc {
@@ -91,15 +91,17 @@ a {
  }
  .preview {
      text-align: center;
-     margin-top: 216px;
+     margin-top: 122px;
  }
  .preview__proposal {    
-    font-weight: 700;
-    font-size: 95px;
-    line-height: 99px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 72px;
+    line-height: 98px
     text-transform: uppercase;
  }
- .preview__text {     
+ .preview__text {      
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
