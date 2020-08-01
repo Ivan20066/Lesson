@@ -26,7 +26,7 @@ body {
 }
 .container {
     margin: 0 auto;
-    width: 1254px;
+    width:1247px;
     
 }
 a {
@@ -90,15 +90,19 @@ a {
     line-height: 20px;
  }
  .preview {
-     text-align: center;
-     margin-top: 220px;
+    
+    margin-top: 105px;
+    margin-left: 483px;
+ }
+ .preview__container {
+     width: 1000px;
  }
  .preview__proposal {    
     font-family: Open Sans;
     font-style: normal;
-    font-weight: 800;
-    font-size: 94px;
-    line-height: 97px;   
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
     text-transform: uppercase;
  }
  .preview__text {      
@@ -149,10 +153,10 @@ font-size: 14px;
 line-height: 19px;
 }
 .servis__container {
-    margin-left: 77px;
+    margin-left: 294px;
 }
 .servis__list {
-   margin-top: 187px;
+   margin-top: 198px;
    padding: 0; 
    
 }
@@ -217,19 +221,19 @@ h1, h2, h3, h4 {
 }
 
 .section__title {    
-    font-weight: 700;
-    font-size: 48px;
-    line-height: 43px;
-    margin-top: 207px;
-    margin-left: 134px;
-    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 38px;
+    margin-top: 151px;
+    margin-left: 298px;
+    
 
 
 }
 .news {
    position: relative;   
-   left: 138px;
-   margin-top: 75px;
+   left: 324px;
+   margin-top: 54px;
    padding: 0;
   
 }
@@ -281,8 +285,8 @@ h1, h2, h3, h4 {
    
 }
 .paginator {
-    text-align: center;   
-    margin-top: 70px;
+    margin-left: 686px;
+    margin-top: 48px;
     font-family: Open Sans;
 font-style: normal;
 font-weight: bold;
@@ -313,40 +317,43 @@ line-height: 20px;
  .paginator__item--active {
     background:  #FF5500;
     border-radius: 50%;
+    text-align: center;
 }
 .paginator__link {   
    
     display: block;
     width: 32px;
     height: 32px;
-    border-radius: 50%;
+    border-radius:50%;
     position: relative;
     text-decoration: none;
     font-weight: bold;
     line-height: 32px;
-    
+    text-align: center;
 }
 
+
 .about {
-    margin-top: 277px;
+    margin-top: 147px;
+    margin-left: 297px;
 }
 .about:before {
     content: "";
     display:inline-block;
-    width: 645px;
-    height: 500px;
-    background: url(../img/cameraman.jpg) center center/cover no-repeat; 
+    width: 490px;
+    height: 505px;
+    background: url(../img/cameraman.jpg) center center /cover  no-repeat; 
 }
 .about__list {    
-    width: 692px;
-    min-height: 494px;
+    width: 777px;
+    min-height: 457px;
     padding: 90px 164px 81px 125px;
     color: #000;
     box-sizing: border-box;
     font-size: 20px;
     line-height: 24px;
-    margin-top: 70px;
-    margin-left: -185px;
+    margin-top: 113px;
+    margin-left: -128px;
     display: inline-block;
     vertical-align: top;
     background: #FFFFFF;
@@ -360,8 +367,7 @@ font-size: 36px;
 line-height: 49px;
 }
 
-* {
-}    
+  
     
 .about__button {
     margin-top:   10px;
