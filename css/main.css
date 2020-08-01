@@ -71,11 +71,13 @@ a {
      color: #e47e3a;
  }
  .contacts {
+    
     display: block;
     position: absolute;
-    top: 28px;
+    top: 5px;
     right: 83px;
-     text-align: right;     
+    text-align: right;
+    margin-top: 24px;   
  }
  .contacts__desc {
      font-size: 11px;
@@ -109,14 +111,15 @@ a {
     font-family: Open Sans;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
-    line-height: 20px;
-    margin-top: 35px;
- }
- .preview__button {
-    
-    margin-top: 63px;
-    
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 12px;
+    margin-left: 190px;
+}
+ 
+ .preview__button {    
+    margin-top: 49px;  
+    margin-left: 291px;  
  }
  .btn {     
 font-weight: bold;
@@ -136,11 +139,11 @@ text-transform: uppercase;
     border: solid #FF5500;
     border-radius: 35px;
     color: #ffffff;
-    font-weight: bold;
-    font-size: 21px;
-    line-height: 19px;
+    font-size: 16px;
+    line-height: 16px;
     text-decoration: none;
     text-transform: uppercase;
+      
 }
 .button {    
     width: 195px;
@@ -156,7 +159,7 @@ line-height: 19px;
     margin-left: 294px;
 }
 .servis__list {
-   margin-top: 198px;
+   margin-top: 244px;
    padding: 0; 
    
 }
@@ -172,8 +175,15 @@ line-height: 19px;
     width: 362px;
     min-height: 476px;       
      color: #000;
-     vertical-align:top;
-     padding: 20px 25px;
+     display: inline-block;
+     margin-right: 30px;
+     background: #FFFFFF;
+     border-radius: 5px;
+     width: 362px;
+     min-height: 476px;
+     color: #000;
+     vertical-align: top;
+     padding: 20px 33px;
 }
 .servis__item-list:last-child {
     margin: 0;
@@ -216,16 +226,20 @@ h1, h2, h3, h4 {
     color: #666666;    
 }
 .servis__button {
-    margin-top: 15px;
+    margin-top: 64px;
     
 }
+.servis__button--color {
+    margin-top: -4px;
+}
+
 
 .section__title {    
     font-weight: 400;
     font-size: 44px;
     line-height: 38px;
-    margin-top: 151px;
-    margin-left: 298px;
+    margin-top: 146px;
+    margin-left: 297px;
     
 
 
@@ -285,8 +299,8 @@ h1, h2, h3, h4 {
    
 }
 .paginator {
-    margin-left: 686px;
-    margin-top: 48px;
+    margin-left: 683px;
+    margin-top: 43px;
     font-family: Open Sans;
 font-style: normal;
 font-weight: bold;
@@ -347,7 +361,7 @@ line-height: 20px;
 .about__list {    
     width: 777px;
     min-height: 457px;
-    padding: 90px 164px 81px 125px;
+    padding: 71px 164px 81px 91px;
     color: #000;
     box-sizing: border-box;
     font-size: 20px;
@@ -359,24 +373,23 @@ line-height: 20px;
     background: #FFFFFF;
     border-radius: 5px;
 }
-.about__title {
-    font-family: Open Sans;
-font-style: normal;
-font-weight: 800;
-font-size: 36px;
-line-height: 49px;
+.about__title {   
+    font-size: 39px;
+    line-height: 49px;
+    font-weight: bold;
+    text-transform: uppercase;    
 }
 
   
     
 .about__button {
-    margin-top:   10px;
-    margin-left: 10px;
+    margin-top: 50px;
+    margin-left: -15px;
 }
 .footer {
     height: 150px;
     position: relative;
-    margin-top: 100px;
+    margin-top: 45px;
    
 }
 .socials__item {
@@ -403,3 +416,10 @@ line-height: 49px;
 .contacts--footer {
     top: 10px;
 }
+.menu-footer {
+    display: inline-block;
+     vertical-align: middle;
+     margin-right: 50px;
+     font-size: 14px;
+    line-height: 19px;
+    
