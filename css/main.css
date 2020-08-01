@@ -90,6 +90,7 @@ a {
  .contacts__graph {
     font-size: 13px;
     line-height: 20px;
+    color: #FF5500;
  }
  .preview {
     
@@ -398,8 +399,8 @@ line-height: 20px;
     margin-right: 10px;
 }
 .socials {
-    top: 20px;
-    right: 220px;
+    top: 41px;
+    right: 334px;
     position: absolute;
     margin: 0;
     padding: 0;
@@ -416,10 +417,16 @@ line-height: 20px;
 .contacts--footer {
     top: 10px;
 }
-.menu-footer {
+.menu-bottom {
     display: inline-block;
      vertical-align: middle;
      margin-right: 50px;
      font-size: 14px;
     line-height: 19px;
-    
+}
+.menu-footer {
+    position: absolute;
+    top: 44px;
+    left: 38%;
+    transform: translatex(-50%);
+}
