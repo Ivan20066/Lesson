@@ -94,9 +94,7 @@ a {
     line-height: 20px;
     color: #FF5500;
  }
- .container__preview {
-
- }
+ 
  .preview {
     margin-top: 113px;
  }
@@ -248,26 +246,15 @@ h1, h2, h3, h4 {
     font-weight: 400;
     font-size: 44px;
     line-height: 38px;
-<<<<<<< HEAD
     margin-top: 144px;
     margin-left: 76px;
-=======
-    margin-top: 151px;
-    margin-left: 298px;
-    
->>>>>>> parent of 64337c3... еще раз сделал......
 
 
 }
 .news {
    position: relative;   
-<<<<<<< HEAD
    left: 99px;
    margin-top: 57px;
-=======
-   left: 324px;
-   margin-top: 54px;
->>>>>>> parent of 64337c3... еще раз сделал......
    padding: 0;
   
 }
@@ -317,7 +304,7 @@ h1, h2, h3, h4 {
    
 }
 .paginator {
-    margin-left: 686px;
+    margin-left: 458px;
     margin-top: 48px;
     font-family: Open Sans;
 font-style: normal;
@@ -333,10 +320,10 @@ line-height: 21px;
     display: inline-block;
     vertical-align: middle; 
     font-family: Open Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 20px;
+    font-style: normal;
+    font-weight: normal;
+       font-size: 16px;
+      line-height: 20px;
        
 }
 .paginator__display {
@@ -366,13 +353,8 @@ line-height: 20px;
 
 
 .about {
-<<<<<<< HEAD
-    margin-top: 144px;
+    margin-top: 148px;
     margin-left: 70px;
-=======
-    margin-top: 147px;
-    margin-left: 297px;
->>>>>>> parent of 64337c3... еще раз сделал......
 }
 .about:before {
     content: "";
@@ -437,17 +419,8 @@ line-height: 49px;
     width: 36px;
     height: 36px;
 }
-.contacts--footer {
-<<<<<<< HEAD
-<<<<<<< HEAD
-    top: 35px;   
-
-=======
-    top: 32px;
->>>>>>> parent of 1a8b84a... еще чуть чуть
-=======
+.contacts--footer { 
     top: 10px;
->>>>>>> parent of 64337c3... еще раз сделал......
 }
 .menu-bottom {
     display: inline-block;
@@ -458,17 +431,7 @@ line-height: 49px;
 }
 .menu-footer {
     position: absolute;
-<<<<<<< HEAD
-<<<<<<< HEAD
     top: 44px;
     left: 38%;
-=======
-    top: 40px;
-    left: 39%;
->>>>>>> parent of 1a8b84a... еще чуть чуть
-=======
-    top: 44px;
-    left: 38%;
->>>>>>> parent of 64337c3... еще раз сделал......
     transform: translatex(-50%);
 }
