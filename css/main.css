@@ -24,10 +24,14 @@ body {
    -webkit-smoothing: antialiased;
    -moz-osx-font-smoothing: grayscale;
 }
+
 .container {
     margin: 0 auto;
-    width:1247px;
-    
+    width: 1350px;  
+}
+.container-full {
+    margin: 0 auto;
+    width: 1300px;
 }
 a {
     color: inherit;
@@ -39,13 +43,13 @@ a {
 .logo {
     display: block;
     position: absolute;
-    top: 32px;
-    left: 31px;
+    top: 26px;
+    left:75px
 
     }
  .menu {
     position: absolute;
-    top: 44px;
+    top: 41px;
     left: 50%;
     transform: translatex(-50%);    
  }
@@ -56,7 +60,7 @@ a {
  .menu__item {
      display: inline-block;
      vertical-align: middle;
-     margin-right: 50px;
+     margin-right: 51px;
      font-size: 14px;
     line-height: 19px;
  } 
@@ -71,13 +75,11 @@ a {
      color: #e47e3a;
  }
  .contacts {
-    
     display: block;
     position: absolute;
-    top: 5px;
-    right: 83px;
-    text-align: right;
-    margin-top: 24px;   
+    top: 28px;
+    right:135px;
+     text-align: right;     
  }
  .contacts__desc {
      font-size: 11px;
@@ -85,27 +87,28 @@ a {
  .contacts__tel {
     text-decoration: none;
     font-size: 26px;
-    line-height: 32px;
+    line-height: 29px;
  }
  .contacts__graph {
     font-size: 13px;
     line-height: 20px;
     color: #FF5500;
  }
+ .container__preview {
+
+ }
  .preview {
-    
-    margin-top: 105px;
-    margin-left: 483px;
+    margin-top: 113px;
  }
  .preview__container {
-     width: 1000px;
+    margin-left: 309px;
  }
  .preview__proposal {    
     font-family: Open Sans;
     font-style: normal;
     font-weight: 700;
     font-size: 72px;
-    line-height: 98px;
+    line-height: 90px;
     text-transform: uppercase;
  }
  .preview__text {      
@@ -113,15 +116,16 @@ a {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
-    line-height: 18px;
-    margin-top: 12px;
-    margin-left: 190px;
+    line-height: 20px;   
+    margin-left: 139px;
+    margin-top: 16px;
 }
  
- .preview__button {    
-    margin-top: 49px;  
-    margin-left: 291px;  
- }
+ .preview__button {
+    margin-left: 240px;
+    margin-top: 49px;
+}    
+ 
  .btn {     
 font-weight: bold;
 font-size: 14px;
@@ -140,11 +144,11 @@ text-transform: uppercase;
     border: solid #FF5500;
     border-radius: 35px;
     color: #ffffff;
+    font-weight: bold;
     font-size: 16px;
-    line-height: 16px;
+    line-height: 19px;
     text-decoration: none;
     text-transform: uppercase;
-      
 }
 .button {    
     width: 195px;
@@ -157,10 +161,10 @@ font-size: 14px;
 line-height: 19px;
 }
 .servis__container {
-    margin-left: 294px;
+    margin-left: 68px;
 }
 .servis__list {
-   margin-top: 244px;
+   margin-top: 242px;
    padding: 0; 
    
 }
@@ -244,8 +248,8 @@ h1, h2, h3, h4 {
     font-weight: 400;
     font-size: 44px;
     line-height: 38px;
-    margin-top: 146px;
-    margin-left: 297px;
+    margin-top: 151px;
+    margin-left: 298px;
     
 
 
@@ -303,8 +307,8 @@ h1, h2, h3, h4 {
    
 }
 .paginator {
-    margin-left: 683px;
-    margin-top: 43px;
+    margin-left: 686px;
+    margin-top: 48px;
     font-family: Open Sans;
 font-style: normal;
 font-weight: bold;
@@ -365,7 +369,7 @@ line-height: 20px;
 .about__list {    
     width: 777px;
     min-height: 457px;
-    padding: 71px 164px 81px 91px;
+    padding: 90px 164px 81px 125px;
     color: #000;
     box-sizing: border-box;
     font-size: 20px;
@@ -377,23 +381,24 @@ line-height: 20px;
     background: #FFFFFF;
     border-radius: 5px;
 }
-.about__title {   
-    font-size: 39px;
-    line-height: 49px;
-    font-weight: bold;
-    text-transform: uppercase;    
+.about__title {
+    font-family: Open Sans;
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 49px;
 }
 
   
     
 .about__button {
-    margin-top: 50px;
-    margin-left: -15px;
+    margin-top:   10px;
+    margin-left: 10px;
 }
 .footer {
     height: 150px;
     position: relative;
-    margin-top: 45px;
+    margin-top: 100px;
    
 }
 .socials__item {
