@@ -248,16 +248,15 @@ h1, h2, h3, h4 {
     font-weight: 400;
     font-size: 44px;
     line-height: 38px;
-    margin-top: 151px;
-    margin-left: 298px;
-    
+    margin-top: 144px;
+    margin-left: 76px;
 
 
 }
 .news {
    position: relative;   
-   left: 324px;
-   margin-top: 54px;
+   left: 99px;
+   margin-top: 57px;
    padding: 0;
   
 }
@@ -356,8 +355,8 @@ line-height: 20px;
 
 
 .about {
-    margin-top: 147px;
-    margin-left: 297px;
+    margin-top: 144px;
+    margin-left: 70px;
 }
 .about:before {
     content: "";
@@ -423,11 +422,8 @@ line-height: 49px;
     height: 36px;
 }
 .contacts--footer {
-<<<<<<< HEAD
-    top: 35px;
-=======
-    top: 10px;
->>>>>>> parent of 64337c3... еще раз сделал......
+    top: 35px;   
+
 }
 .menu-bottom {
     display: inline-block;
@@ -439,10 +435,6 @@ line-height: 49px;
 .menu-footer {
     position: absolute;
     top: 44px;
-<<<<<<< HEAD
-    left: 39%;
-=======
     left: 38%;
->>>>>>> parent of 64337c3... еще раз сделал......
     transform: translatex(-50%);
 }
