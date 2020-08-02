@@ -184,7 +184,7 @@ line-height: 19px;
      min-height: 476px;
      color: #000;
      vertical-align: top;
-     padding: 20px 33px;
+     padding: 29px 26px;
 }
 .servis__item-list:last-child {
     margin: 0;
@@ -201,21 +201,26 @@ h1, h2, h3, h4 {
 .servis__title {  
     font-size: 32px;
     line-height: 44px;
-    margin-right: 172px;
+    margin-top: 16px;
     
 }
 
  
 .servis__conditions-block {
     display: inline-block;
-    vertical-align: top;   
-    margin-right: 30px;   
-      font-size: 16px;
-    line-height: 125%;    
-     width: 125px;
-     color: #666666;
-
+    vertical-align: top;
+    margin-right: 8px;
+    font-size: 16px;
+    line-height: 120%;    
+    width: 145px;
+    color: #666666;
+    margin-top: 27px;
 }
+.men {
+    width: 114px;
+}
+
+
 .servis__conditions-block :last-child {
     margin-right: 0;
 }
@@ -227,11 +232,11 @@ h1, h2, h3, h4 {
     color: #666666;    
 }
 .servis__button {
-    margin-top: 64px;
+    margin-top: 36px;
     
 }
 .servis__button--color {
-    margin-top: -4px;
+    margin-top: 10px;
 }
 
 
@@ -256,7 +261,7 @@ h1, h2, h3, h4 {
     display: inline-block;
     height: 390px;
     width: 527px;
-    margin-right: 30px;
+    margin-right: 52px;
     position: relative;
     border-radius: 5px;
 }
@@ -269,19 +274,17 @@ h1, h2, h3, h4 {
 }
 .news__all {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    min-height: 140px;
-    padding-left: 20px;
+    bottom: 0;    
+    min-height: 107px;
+    padding-left: 7px;
     padding-right: 20px;
 }
 
 .news__data {
     position: absolute;
     display: inline-block;   
-    margin-left: 25px;
-    top: -21px;
+    margin-left: -2px;
+    bottom: 116px;
 }
 .news__text-speech {
   display: inline-block;
