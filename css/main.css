@@ -77,7 +77,7 @@ a {
  .contacts {
     display: block;
     position: absolute;
-    top: 31px;
+    top: 28px;
     right:135px;
      text-align: right;     
  }
@@ -422,8 +422,12 @@ line-height: 49px;
     height: 36px;
 }
 .contacts--footer {
+<<<<<<< HEAD
     top: 35px;   
 
+=======
+    top: 32px;
+>>>>>>> parent of 1a8b84a... еще чуть чуть
 }
 .menu-bottom {
     display: inline-block;
@@ -434,7 +438,12 @@ line-height: 49px;
 }
 .menu-footer {
     position: absolute;
+<<<<<<< HEAD
     top: 44px;
     left: 38%;
+=======
+    top: 40px;
+    left: 39%;
+>>>>>>> parent of 1a8b84a... еще чуть чуть
     transform: translatex(-50%);
 }
