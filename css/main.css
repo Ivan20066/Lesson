@@ -27,11 +27,12 @@ body {
 
 .container {
     margin: 0 auto;
-    width: 1350px;  
+    width: 1351px; 
+
 }
-.container-full {
+.container-oll {
     margin: 0 auto;
-    width: 1300px;
+    width: 1200px;
 }
 a {
     color: inherit;
@@ -99,14 +100,15 @@ a {
     margin-top: 118px;
  }
  .preview__container {
-    margin-left: 309px;
+    margin: 0 auto;
+    width: 814px;
  }
  .preview__proposal {    
     font-family: Open Sans;
     font-style: normal;
     font-weight: 700;
-    font-size: 72px;
-    line-height: 90px;
+    font-size: 71px;
+    line-height: 86px;
     text-transform: uppercase;
  }
  .preview__text {      
@@ -115,12 +117,12 @@ a {
     font-weight: normal;
     font-size: 18px;
     line-height: 20px;   
-    margin-left: 139px;
-    margin-top: 12px;
+    margin-left: 180px;
+    margin-top: 20px;
 }
  
  .preview__button {
-    margin-left: 240px;
+    margin-left: 280px;
     margin-top: 49px;
 }    
  
@@ -159,7 +161,7 @@ font-size: 14px;
 line-height: 19px;
 }
 .servis__container {
-    margin-left: 68px;
+    margin-left: 0px;
 }
 .servis__list {
    margin-top: 242px;
@@ -172,14 +174,13 @@ line-height: 19px;
 }
 .servis__item-list {
     display:inline-block;   
-    margin-right: 30px;    
+    margin-right: 24px;    
     background: #FFFFFF;
     border-radius: 5px;
     width: 362px;
     min-height: 476px;       
      color: #000;
-     display: inline-block;
-     margin-right: 30px;
+     display: inline-block;    
      background: #FFFFFF;
      border-radius: 5px;
      width: 362px;
@@ -201,8 +202,8 @@ h1, h2, h3, h4 {
 }
 
 .servis__title {  
-    font-size: 32px;
-    line-height: 44px;
+    font-size: 30px;
+    line-height: 49px;
     margin-top: 16px;
     
 }
@@ -216,7 +217,7 @@ h1, h2, h3, h4 {
     line-height: 120%;    
     width: 145px;
     color: #666666;
-    margin-top: 27px;
+    margin-top: 24px;
 }
 .men {
     width: 114px;
@@ -243,17 +244,17 @@ h1, h2, h3, h4 {
 
 
 .section__title {    
-    font-weight: 400;
-    font-size: 44px;
-    line-height: 38px;
-    margin-top: 144px;
-    margin-left: 76px;
 
-
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 36px;
+    margin-top: 146px;
+    margin-left: -9px;
+    text-transform: uppercase;
 }
 .news {
    position: relative;   
-   left: 99px;
+   left: 22px;
    margin-top: 57px;
    padding: 0;
   
@@ -262,7 +263,7 @@ h1, h2, h3, h4 {
     display: inline-block;
     height: 390px;
     width: 527px;
-    margin-right: 52px;
+    margin-right: 54px;
     position: relative;
     border-radius: 5px;
 }
@@ -304,7 +305,7 @@ h1, h2, h3, h4 {
    
 }
 .paginator {
-    margin-left: 458px;
+    margin-left: 382px;
     margin-top: 48px;
     font-family: Open Sans;
 font-style: normal;
@@ -353,8 +354,8 @@ line-height: 21px;
 
 
 .about {
-    margin-top: 148px;
-    margin-left: 70px;
+    margin-top: 143px;
+    margin-left: 0;
 }
 .about:before {
     content: "";
@@ -366,13 +367,13 @@ line-height: 21px;
 .about__list {    
     width: 777px;
     min-height: 457px;
-    padding: 63px 114px 72px 98px;
+    padding: 67px 114px 72px 94px;
     color: #000;
     box-sizing: border-box;
     font-size: 20px;
     line-height: 24px;
     margin-top: 113px;
-    margin-left: -128px;
+    margin-left: -133px;
     display: inline-block;
     vertical-align: top;
     background: #FFFFFF;
@@ -396,7 +397,7 @@ text-transform: uppercase;
 .footer {
     height: 150px;
     position: relative;
-    margin-top: 51px;
+    margin-top: 56px;
    
 }
 .socials__item {
